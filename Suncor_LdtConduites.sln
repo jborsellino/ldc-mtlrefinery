@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suncor_LdtConduitesUI", "Suncor_LdtConduites\Suncor_LdtConduitesUI.csproj", "{D623C2F0-7468-4BA8-90A6-346D18B022FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Suncor_LdtConduitesLibrary", "Suncor_LdtConduitesLibrary\Suncor_LdtConduitesLibrary.csproj", "{7492315B-8462-4938-82F5-B60DD096DF2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D623C2F0-7468-4BA8-90A6-346D18B022FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D623C2F0-7468-4BA8-90A6-346D18B022FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D623C2F0-7468-4BA8-90A6-346D18B022FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D623C2F0-7468-4BA8-90A6-346D18B022FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7492315B-8462-4938-82F5-B60DD096DF2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7492315B-8462-4938-82F5-B60DD096DF2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7492315B-8462-4938-82F5-B60DD096DF2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7492315B-8462-4938-82F5-B60DD096DF2A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09151D6B-BD33-4DCF-B8C7-CB9EFF7E1DCD}
+	EndGlobalSection
+EndGlobal
